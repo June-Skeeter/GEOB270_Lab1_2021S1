@@ -71,18 +71,39 @@ Save your project to the C:/temp folder as well (REMINDER: Move your work to you
 
 
 # Part 3 – A Practical Example: The foundations of Epidemiology 
- 
-Applying Modern Methods to the 1854? Cholera Outbreak in London 
-Dr. John Snow (1813 – 1858) was a skeptic of the dominant miasma theory (Links to an external site.) that diseases, such as cholera, were caused by pollution or “bad air.” The germ theory (Links to an external site.) of disease transmission had not yet been established by Louis Pasteur, so Snow needed evidence to support his theory that breathing foul air was not the cause of cholera outbreaks, but rather that the disease spread through contaminated water. By talking with local residents and searching through official case records, Snow was able to track the 1854 outbreak in Soho, London. Using a hand-sketched map (Figure 1), he recorded each case of cholera in the area using a dash, and recorded each water pump with a circled dot, creating what today would be called a ‘dot map.’ By recording clusters of disease, and conducting interviews, Snow was able to trace most cases of the outbreak to a single water pump, located on Broad.
 
-The Dataset
-Dr. Snow published his research in the book On the Mode of Communication of Cholera.  A scanned copy book can be found here:  https://archive.org/details/b28985266/page/n3/mode/2up  Dr. Snow surveyed the locations of all the deaths in SoHo and marked them on a paper map along with the location of well pumps.  The original map is on page https://archive.org/details/b28985266/page/n57/mode/2up
+An early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_disease), the concept that disease transmission is driven by pathogens, emerged around the world more than 2000 years ago.  By the middle ages, Islamic physicians had formally proposed the basics of germ theory.  For example, writing about an outbreak of the bubonic plague in [1362](https://en.wikipedia.org/wiki/Ibn_al-Khatib#On_the_Plague), Ibn al-Khatib astutely pointed out:
+	*"The existence of contagion is established by experience [and] by trustworthy reports on transmission by garments, vessels, ear-rings; by the spread of it by persons from one house, by infection of a healthy sea-port by an arrival from an infected land [and] by the immunity of isolated individuals."*  
 
-In order to get the map into a GIS, it has to be scanned and then georeferenced.  To georeference a map like this, points on the scanned map (eg. intersections) can be matched up to an existing map.  With enough points, an accurate transformation can be calculated and the map can be projected.  Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.
+Despite this knowledge European scientists physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) that diseases, such as cholera, were caused by “bad air” for many centuries.  In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.
+
+* In one striking example is from two maternity clinics in the Vienna Maternity Hospital.  Between 1840 and 1846, maternal mortality rate was 98.4 per 1000 births in a clinic run by physicians and medical students.  While the rate in a the clinic run by midwives was only 36.2 per 1000 births.  The doctors/students started each day with postmortem examinations of deaths from the previous day, then proceeded to the maternity ward without washing their hands where the students performed vaginal examinations as part of their training (Loudon, 2013).  By contrast, the midwives didn't do postmortems or examinations.  Hand washing was mandated before entering the maternity ward in both clinics.  By 1848, the maternal mortality rate in the doctors/student clinic fell to 12.7 per 1000 births, comparable to the rate of 13.3 per 1000 births in the midwives clinic.  Yet, even with this, antisepsis wasn't more broadly introduced into obstetric practice until the 1880's.
+
+Dr. John Snow (1813 – 1858), a skeptic of the miasma theory and a proponent of germ theory is credited as one of the founders of modern Epidemiology (the study and analysis of the distribution of diseases).  He was a physician practicing in London where cholera outbreaks were a frequent occurrence due to poor sanitation practices.  Dr. Snow studied Cholera and in 1849 proposed that it was spread by contaminated water, comparing Cholera rates between districts supplied by different water companies with different sources and sanitation practices.  During an outbreak in London's SoHo neighborhood in 1854, by talking with local residents and searching through official case records, Snow was able to identify a point source for the outbreak using a hand-sketched map. he recorded each case of cholera in the area using a dash, and recorded each water pump with a circled dot, creating what today would be called a ‘dot map.’ By recording clusters of disease, and conducting interviews, Snow was able to trace most cases of the outbreak to a single water pump, located on Broad st.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Snow_Map.jpg" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Snow_Map.jpg" target="_blank">View Image in New Tab</a>
+
+
+### Applying Modern Methods to the 1854 Cholera Outbreak in London 
+
+We're going to work with Dr. Snow's original data and replicate the study using modern GIS methods.  In order to get the map into a GIS, it has to be scanned and then georeferenced.  To georeference a map like this, points on the scanned map (eg. intersections) can be matched up to an existing map.  With enough points, an accurate transformation can be calculated and the map can be projected.  Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.
 
 Adding and Editing the Data
 
-We’ve already georeferenced the map for you, and extracted most of the point data, but we left out a well to give you an example of how digitizing works.
+The map is already georeferenced for you and the point data has already been extracted.
 
 •	In the top left, under the insert tab, click New Map
 o	As in Part 2, rename the new map Part 3
@@ -90,3 +111,14 @@ o	As in Part 2, rename the new map Part 3
 •	You now know two ways to access the Catalog.  The Catalog window and the Catalog pane.  The Catalog window shows more detailed information, allowing you to inspect the metadata.  While the Catalog Pane just shows the file tree and is a quick way to navigate folders and add data.
 •	In the Catalog Pane, under Folders/lab2_data expand the CholeraOutbreak_1854.gdb
 o	Click on Snow_cholera_map and drag it onto your Part 3 map area.  The scanned map from Dr. Snow’s original work should load, and the map area will be centered on the Soho neighborhood of London. Your map should now look like show below.  Toggle the Snow_cholera_map on and off to see how things in Soho look now compared to 1854.
+
+
+### Screenshot 1
+
+
+
+
+
+# References
+
+Loudon, I. (2013). Ignaz Phillip Semmelweis’ studies of death in childbirth. Journal of the Royal Society of Medicine, 106(11), 461–463. https://doi.org/10.1177/0141076813507844
