@@ -41,7 +41,7 @@ Regardless this knowledge European physicians clung to the [miasma theory](https
 In your own words, what is belief perseverance?  Give your own example of belief perseverance, this can be a historical example or one from your own personal experience.
 
 
-# References
+## References
 
 Loudon, I. (2013). Ignaz Phillip Semmelweis’ studies of death in childbirth. Journal of the Royal Society of Medicine, 106(11), 461–463. https://doi.org/10.1177/0141076813507844
 

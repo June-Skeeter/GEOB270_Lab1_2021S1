@@ -46,4 +46,5 @@ The first step is opening ArcPro.  You can find it using the Windows start tab o
 </div>
 <a href="New_Project.png" target="_blank">View Image in New Tab</a>
 
-Once you have created an empty work space, you can move on to Part 1.
+# Close arc.
+# Download Data.

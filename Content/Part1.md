@@ -10,7 +10,7 @@ To get familiar with ArcGIS Pro, you will complete an Introduction to ArcGIS Pro
 * Click "Sign In" in the top right of [this page](https://www.esri.com/training/)
 * Click "Create a public account" and follow the steps
 
-# Completing the introductory tutorial
+## Completing the introductory tutorial
 Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm) tutorial.  Watch the short introductory video, then work through the steps.  **You will be submitting a map from this tutorial for credit.**
 * *Note*, if you have trouble in "Opening the project, Step 3" for either tutorial, you can download the data for off line use instead
 * When you get to "Explore Views, Step 7", double click on the map title and add your name following the video below.
@@ -50,7 +50,7 @@ Save the layout with your name as as Central_Wellington_Layout.pdf and upload it
 <a href="ExportLayout.png" target="_blank">View Image in New Tab</a>
 
 
-# Watching the videos
+## Watching the videos
 ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos.
 
 [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
