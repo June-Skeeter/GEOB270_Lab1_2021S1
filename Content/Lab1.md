@@ -30,7 +30,7 @@ In Part I this lab you will be introduced to ESRI's ArcGIS Pro software by sever
 
 # Part 1: A “Quick Start” to ArcGIS Pro Software 
 
-Demonstrate basic use of GIS software ArcGIS Pro by completing 3 ArcGIS Pro “Quick Start” tutorials from ESRI (Environmental Systems Research Institute).  The following tutorials will give you a brief overview of the skills you will be building on each lab. By the end of the term you will have become comfortable utilizing these GIS skills/tools. The three tutorials will take you about 1:40 minutes all together:
+Below are three ArcGIS Pro “Quick Start” tutorials from ESRI (Environmental Systems Research Institute).  The tutorials will give you a brief overview of the skills you will be building on each lab and help you familiarize yourself with the ArcGIS Pro interface.  For each of the three tutorials, watch the video, then work through the instructions.
 
 ## ESRI Training
 * If you have purchased ArcGIS Pro, you can sign in through your UBC ArcGIS online account you created.
@@ -47,15 +47,12 @@ Demonstrate basic use of GIS software ArcGIS Pro by completing 3 ArcGIS Pro “Q
 * Watch the video for an overview of how to interact with data layers in ArcGIS Pro.
 * Work your way through the tutorial.  
 	* Note, if you have trouble in step 3, you can download the data for off line use.
- 
 
 ## [Author a Map](https://pro.arcgis.com/en/pro-app/latest/get-started/author-a-map.htm) ~ 30 minutes
 * Watch the video for a basic introduction into making maps with ArcGIS Pro.
-* Work your way through the tutorial.  
-	* Note, if you have trouble in step 3, you can download the data for off line use.
 
 
-# Part 3 – A Practical Example: The foundations of Epidemiology 
+# Part 2 – A Practical Example: The foundations of Epidemiology 
 
 An early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_disease), the concept that disease transmission is driven by pathogens, emerged around the world more than 2000 years ago.  By the middle ages, Islamic physicians had formally proposed the basics of germ theory.  For example, writing about an outbreak of the bubonic plague in [1362](https://en.wikipedia.org/wiki/Ibn_al-Khatib#On_the_Plague), Ibn al-Khatib astutely pointed out:
 	*"The existence of contagion is established by experience [and] by trustworthy reports on transmission by garments, vessels, ear-rings; by the spread of it by persons from one house, by infection of a healthy sea-port by an arrival from an infected land [and] by the immunity of isolated individuals."*  
