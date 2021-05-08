@@ -64,7 +64,7 @@ How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in 
 </div>
 <a href="Statistics.png" target="_blank">View Image in New Tab</a>
 
-# Creating the pumps layer
+## Creating the pumps layer
 
 Using the steps outlined in the video on creating point features, we are going to create a new feature class called "Broad St. Pump" and digitize the location of the pump.  Follow the steps as outlined and refer to the video below.
 
@@ -139,6 +139,57 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
 </div>
 <a href="Digitize.mp4" target="_blank">View Image in New Tab</a>
 
+## Changing the Symbology
+
+Now we are going to change the symbology of the Deaths and Broad St. Pump so that they are more visible.  Follow the steps as outlined and refer to the video below.
+
+**1)** Click on Deaths then click the Appearance tab, choose Single Symbol from the Symbology drop down.
+* The appearance tab lest you make changes to the way data is represented on your map.
+
+**2)** In the symbology pane that opens, under gallery, choose the red triangle, then adjust the properties to fine tune the symbology.  Select the Broad St. Pump and symbolize the it as a larger circle marker in a different color.
+* You can change various properties of the point symbols to make them easier to see (eg. outline width, point size).
+* Size, color, and shape all convey meaning.  We'll discuss the various implications of symbology later in the semester.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="ChangeSymbology.mp4" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="ChangeSymbology.mp4" target="_blank">View Image in New Tab</a>
+
+## Adding Labels
+
+Now we are going to add a label to Broad St. Pump so the map reader can identify it.  Follow the steps as outlined and refer to the video below.
+
+**1)** Right click on Broad St. Pump and click Label.
+* Note a label appears next to the point but it isn't very easy to read.
+
+**2)** Right click on Broad St. Pump again and click Label Properties, change the font size and add a halo to make the label easier to read.
+* Halos can make your text stand out against a background.  Increasing the fond size also helps the text stand out.
+* You can change many other aspects of the label text.  Play around with the properties to see what happens when you make changes.  Hit apply after each change.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Labels.mp4" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Labels.mp4" target="_blank">View Image in New Tab</a>
 
 ## Save your project.
 

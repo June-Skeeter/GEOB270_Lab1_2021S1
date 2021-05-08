@@ -6,8 +6,10 @@ nav_order: 6
 
 # Kernel Density Estimation
 
-## What is Kernel Density?
+## Measures of central tendency.
 
+There are numerous ways to quantify the spatial distribution of a dataset.
+* The (Mean Center)[] and (Standard Deviation Ellipse)[]
 
 ## Save your project.
 
