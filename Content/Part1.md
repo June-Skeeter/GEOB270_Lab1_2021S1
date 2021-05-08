@@ -51,7 +51,7 @@ Save the layout with your name as as Central_Wellington_Layout.pdf and upload it
 
 
 ## Watching the videos
-ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from three tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos.
+ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos.
 
 [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
@@ -59,15 +59,20 @@ ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them 
 ## Question 2)
 What does the select layer by attributes tool do?
 
-2) [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
+[Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
 ## Question 3)
 What is a Layout in ArcGIS Pro?
 
-3) [Use geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/get-started/use-geoprocessing-tools.htm)
+[Use geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/get-started/use-geoprocessing-tools.htm)
   * This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
 ## Question 4)
 In your own words, what did Andy do to see how much invasive grass was located near campgrounds?
 
+[Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm)
+  * This tutorial shows how you can create a feature class and populate it with point features.
+
+## Question 5)
+What is the first step when creating a new point layer?
