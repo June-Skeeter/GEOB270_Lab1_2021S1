@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Part 1
+title: Part 1: Tutorials
 nav_order: 2
 ---
 
@@ -69,10 +69,14 @@ What is a Layout in ArcGIS Pro?
   * This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
 ## Question 4)
-In your own words, what did Andy do to see how much invasive grass was located near campgrounds?
+How many campgrounds have invasive grass within 1500 meters?
+
+## Question 5)
+What tool is used to create this 1500 meter zone around the campsites?
+
 
 [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm)
   * This tutorial shows how you can create a feature class and populate it with point features.
 
-## Question 5)
+## Question 6)
 What is the first step when creating a new point layer?
