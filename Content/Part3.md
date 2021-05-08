@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Foundations of Epidemiology & Health Geography
+title: Foundations of Epidemiology
 nav_order: 4
 ---
 
-# Foundations of Epidemiology & Health Geography: Identifying Sources of Cholera Outbreaks
+# Foundations of Epidemiology
 
 We are going to recreate one of the foundational studies in [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology) and the closely related field of [Health Geography](https://en.wikipedia.org/wiki/Health_geography) using modern GIS techniques.
 
@@ -78,18 +78,18 @@ How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in 
 
 Using the steps outlined in the video on creating point features, we are going to create a new feature class called "Broad St. Pump" and digitize the location of the pump.  Follow the steps as outlined and refer to the video below.
 
-### 1) Right click on SourcePoints in the catalog pane and click New > Feature Class.
+**1)** Right click on SourcePoints in the catalog pane and click New > Feature Class.
 * SourcePoints is a "Feature Dataset", a collection of feature classes within a geodatabase that have common properties (eg. projections)
 
-### 2) In the new window that opens, give the new feature a name and alas, set the type to point, and click Next.
+**2)** In the new window that opens, give the new feature a name and alas, set the type to point, and click Next.
 * Arc Pro does not allow Feature Classes to have certain characters (eg. spaces) in file names.  But you can set the alias to display spaces
 * Feature classes can take multiple different types.  The three most common, which we will mainly be concerned with are: Points, Lines, and Polygons
   * We'll discuss the differences in detail in lecture
 
-### 3) Add a new field called Name with type text then click Next.
+**3)** Add a new field called Name with type text then click Next.
 * Fields allow us to store information about the features in a table.  In this case, the only information we want to store is the name.  We will encounter circumstances later where we store many attributes for each feature.
 
-### 4) Note the Spatial Reference System then click Finish.
+**4)** Note the Spatial Reference System then click Finish.
 * Feature Datasets require that all feature classes within them have the same Spatial Reference System, so the projection is automatically set to that of the SourcePoints feature dataset (WGS 1984 Web Mercator)
   * If you aren't working in a preexisting feature dataset, this would be your chance to specify it
 * We don't need to concern ourselves with the options on the next three pages for now.
@@ -97,7 +97,7 @@ Using the steps outlined in the video on creating point features, we are going t
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="NewPoint.mp4.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="NewPoint.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -107,28 +107,28 @@ Using the steps outlined in the video on creating point features, we are going t
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="NewPoint.mp4.png" target="_blank">View Image in New Tab</a>
+<a href="NewPoint.mp4" target="_blank">View Image in New Tab</a>
 
 # Digitizing the Broad St. pump
 
 Now we are going to digitize the location of the Broad St. Pump.  Follow the steps as outlined and refer to the video below.
 
-### 1) Find the Snow_cholera_map in the CholeraOutbreak_1854.gdb, click and drag it onto the map.
+**1)** Find the Snow_cholera_map in the CholeraOutbreak_1854.gdb, click and drag it onto the map.
 * A geodatabase (.gdb) is a file management structure that is unique to ESRI products.
   * Geodatabases are used to store files in Arc Pro.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in regular files as well.  But .gdb have some enhanced functionality that makes them better in some circumstances.  We'll discuss .gdb more in more detail later
 
-### 2) Open the Edit tab and click Create, in the create pane that appears, click Broad St. Pump and choose point from the options that appear.
+**2)** Open the Edit tab and click Create, in the create pane that appears, click Broad St. Pump and choose point from the options that appear.
 * The edit tab allows us to create, modify, save, and delete data among other things
 * Create is used specifically to add new features to an existing feature data set.
   * Right now we're creating a single point feature.  We'll learn how to digitize lines and polygons later on in the semester.
 
-### 3) Click on the location of the Broad St. pump as shown on Dr. Snow's original map, then save your edits.
+**3)** Click on the location of the Broad St. pump as shown on Dr. Snow's original map, then save your edits.
 * Zoom into the Broad St. area on the map, click on the location of the pump to add a point feature.
   * If you make a mistake, you can hit ctrl + z to undo your additions
   * **Note** Snapping is sometimes set to on by default.  It will cause the cursor to jump to the nearest feature in another layer (eg. Deaths).  It is useful in some situations, but not here.  It can be turned off by clicking snapping in the Edit tab.
 * Save your edits after every change to make them permanent.
 
-### 4) Open the attribute table and name the newly created feature "Broad St. Pump"
+**4)** Open the attribute table and name the newly created feature "Broad St. Pump"
 * You can type directly into the attribute table to edit the newly created features Name value, which is blank for now.
 * Clicking a new row in the attribute table will add and "empty" feature with no spatial component.
   * You can right click on a row to delete that feature
@@ -137,7 +137,7 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="Digitize.mp4.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="Digitize.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -147,7 +147,7 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="Digitize.mp4.png" target="_blank">View Image in New Tab</a>
+<a href="Digitize.mp4" target="_blank">View Image in New Tab</a>
 
 
 # Save your project.
