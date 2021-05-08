@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Part 2: Belief Perseverance
+title: Miasma vs. Germ Theory
 nav_order: 3
 ---
 
-# Miasma Theory vs. Germ Theory
+# Miasma vs. Germ Theory
 
 Early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_disease), the concept that disease transmission is driven by pathogens, emerged around the world more than 2000 years ago.  By the middle ages, Islamic physicians had formally proposed the basics of germ theory.  For example, writing about an outbreak of the bubonic plague in [1362](https://en.wikipedia.org/wiki/Ibn_al-Khatib#On_the_Plague), Ibn al-Khatib astutely pointed out:
 
@@ -13,8 +13,8 @@ Early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_diseas
 Regardless this knowledge European physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) which attributed diseases such as cholera to “bad air” for many centuries.  In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  Here is one striking historical example:
 
 * The Vienna Maternity Hospital had two maternity clinics with vastly different maternal mortality rates.  Between 1840 and 1846, the maternal mortality rate was 10% at the clinic run by physicians and medical students but only 4% at the clinic run by midwives.
-  * The doctors/students started each day with postmortem examinations, then proceeded to the maternity ward without washing their hands.
-  * The midwives didn't do postmortem exams and generally had more sanitary practices Varney & Thompson (2015).
+  * The doctors/students started each day with postmortem examinations.  They then proceeded to the maternity ward without washing their hands where the students did vaginal examinations as part of their training (Loudon, 2013).
+  * By contrast, the midwives didn't do postmortems or examinations and generally had more sanitary practices (Varney & Thompson 2015).
 * In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).
 
 <div style="overflow: hidden;
@@ -37,7 +37,7 @@ Regardless this knowledge European physicians clung to the [miasma theory](https
 * Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue in sciences that has impeded numerous theoretical advancements (eg. heliocentric theory, plate tectonics, etc).
   * Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
-### Question 7)
+## **Question 7)**
 In your own words, what is belief perseverance?  Give your own example of belief perseverance, this can be a historical example or one from your own personal experience.
 
 

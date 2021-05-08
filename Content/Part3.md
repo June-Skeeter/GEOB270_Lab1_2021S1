@@ -1,9 +1,10 @@
 ---
 layout: default
-title: Part 3: Case Study
+title: Foundations of Epidemiology
 nav_order: 4
 ---
-# Identifying the Source of Cholera Outbreaks: Foundations of Epidemiology
+
+# Foundations of Epidemiology: Identifying Sources of Cholera Outbreaks
 
 Dr. John Snow (1813 – 1858) is credited as one of the founders of modern Epidemiology (the study and analysis of the distribution of diseases).  He was a physician practicing in London where cholera outbreaks were a frequent occurrence due to poor sanitation practices.  Dr. Snow was a skeptic of the miasma theory and a proponent of germ theory.  In 1849 Dr. Snow proposed cholera that it was spread by contaminated water, after comparing cholera rates between London districts supplied by different water companies.  Five years later, during an outbreak in London's SoHo neighborhood in 1854, Dr. Snow was able to identify the point source of an the outbreak using a hand-sketched map.  He recorded each case of cholera in the area using a dash, and recorded each water pump with a circled dot, creating what today would be called a ‘dot map.’ By recording clusters of disease, and conducting interviews, Snow was able to trace most cases of the outbreak to a single water pump, located on Broad st.
 
@@ -50,7 +51,7 @@ Once the map has been scanned and georeferenced, we can extract information from
 </div>
 <a href="AddData.mp4" target="_blank">View Image in New Tab</a>
 
-### Question 8)
+## **Question 8)**
 How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in the attribute table and choose "Statistics" as shown below.  A chart window and a properties pane will open.  Use the statistics in the properties pane to answer the question.
 
 <div style="overflow: hidden;
