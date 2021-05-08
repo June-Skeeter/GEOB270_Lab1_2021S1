@@ -2,24 +2,7 @@
 layout: default
 title: Lab 1 Instructions
 nav_order: 2
----
 
-
-# Lab 1 Learning Objectives:
-
-In Part I this lab you will be introduced to ESRI's ArcGIS Pro software by several tutorials on the ESRI website. 
-
-* Learn about different data types 
-* Display map features 
-* Add data to your map 
-* Manipulate data tables 
-* Create a map layout 
-* Save your map and associated data files 
-
-In Part II we'll do a quick example, applying modern GIS methods to a foundational study in Epidemiology.
-* Learn how historical maps can be added to a GIS by georeferencing
-* Digitize historical data
-* Create a raster layer from a vector layer
 
 
 # Setting Up & Saving Your Work
@@ -57,7 +40,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 Save the layout with your name as as Central_Wellington_Layout.pdf and upload it to the Lab1 canvas quiz.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
 
-\<div style="overflow: hidden;
+<div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
   <iframe src="ExportLayout.png" title="Processes" scrolling="no" frameborder="0"
