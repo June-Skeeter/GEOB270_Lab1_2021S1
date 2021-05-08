@@ -4,15 +4,9 @@ title: Part 1
 nav_order: 2
 ---
 
+# ArcGIS Pro Tutorials
 
-# Setting Up & Saving Your Work
-
-See the Lab Details page for information on how to access ArcPro using your own computer or a Geography Department computer.
-* If you are using ArcPro installed on your own computer, you can manage your files however works best for you.  However, if you are working on a Geography lab computer, follow the instructions on the lab details page closely.
-
-# Part 1: ArcGIS Pro Tutorial
-
-To get familiar with ArcGIS Pro, you will complete an Introduction to ArcGIS Pro tutorial and watch a three other short videos.  The tutorial will give you a brief overview of the ArcGIS Pro and the videos that illustrate aspects of the software package.  If you have purchased ArcGIS Pro, you can sign in through the UBC ArcGIS online account you created. If you are using the lab computers, and don’t already have one, create a public account:
+To get familiar with ArcGIS Pro, you will complete an Introduction to ArcGIS Pro tutorial and watch a three other short videos.  The tutorial will take about 25 minutes and give you a brief overview of the ArcGIS Pro.  The videos illustrate other important aspects of the ArcGIS Pro software package and will take about 10 minutes to watch.  If you have purchased ArcGIS Pro, you can sign in through the UBC ArcGIS online account you created. If you are using the lab computers, and don’t already have one, create a public account:
 * Click "Sign In" in the top right of [this page](https://www.esri.com/training/)
 * Click "Create a public account" and follow the steps
 
@@ -37,7 +31,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 <a href="Part1_Author.mp4" target="_blank">View Image in New Tab</a>
 
 ### Question 1)
-Save the layout with your name as as Central_Wellington_Layout.pdf and upload it to the Lab1 canvas quiz.
+Save the layout with your name as as Central_Wellington_Layout.pdf and upload it to the Lab 1 canvas quiz.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
 
 <div style="overflow: hidden;
@@ -58,13 +52,22 @@ Save the layout with your name as as Central_Wellington_Layout.pdf and upload it
 
 ## Watching the videos
 ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from three tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos.
-1) [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
+
+[Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
+
+## Question 2)
+What does the select layer by attributes tool do?
+
 2) [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
+
+## Question 3)
+What is a Layout in ArcGIS Pro?
+
 3) [Use geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/get-started/use-geoprocessing-tools.htm)
   * This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
 
-## Question 2)
-Need to think of something??  
+## Question 4)
+In your own words, what did Andy do to see how much invasive grass was located near campgrounds?
 
