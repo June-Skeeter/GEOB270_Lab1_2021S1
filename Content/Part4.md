@@ -191,6 +191,34 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
 </div>
 <a href="Labels.mp4" target="_blank">View Image in New Tab</a>
 
+
+## Symbolize by Count
+Lets adjust the symbology so the Deaths feature class points are scaled by the number of deaths at each address.  Follow the steps as outlined and refer to the video below.
+
+**1)** CLick on Deaths and navigate to symbology.  Select graduated symbols from the drop down.
+* Graduated point symbols are sized differently to convey magnitude/intensity.
+
+**2)** Play around with the symbology options.
+* Clicking template allows you to select a the point marker type.
+* The Size and Classes allow you to decide how many classes and how small-large the points should be.
+* The Class tab allows you to specify class breaks manually.
+
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Graduated.mp4" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Graduated.mp4" target="_blank">View Image in New Tab</a>
+
+
 ## Save your project.
 
 Click Save in the top left of the Arc Pro window.
