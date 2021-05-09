@@ -10,7 +10,7 @@ We already know the Broad St. pump was the source of the outbreak, but lets expl
 
 ## Measures of Central Tendency
 
-There are numerous ways to analyze the spatial distribution of a dataset.  The (Mean Center)[https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/mean-center.htm] and (Directional Distribution)[https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/directional-distribution.htm] are two of the simplest measures.  Mean center gives you a single point around which the directional distribution is an ellipse that shows you directional trends in the data.  You don't have to calculate these statistics, but skim the linked pages and look at the example below to understand what these methods show.
+There are numerous ways to analyze the spatial distribution of a dataset.  The [Mean Center](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/mean-center.htm) and [Directional Distribution](https://pro.arcgis.com/en/pro-app/latest/tool-reference/spatial-statistics/directional-distribution.htm) are two of the simplest measures.  Mean center gives you a single point around which the directional distribution is an ellipse that shows you directional trends in the data.  You don't have to calculate these statistics, but skim the linked pages and look at the example below to understand what these methods show.
 * They can be weighted (eg. by the number of deaths per address).
 * These measures roughly identify the Broad St. Pump as the source of the outbreak, as shown in the figure below.
   * However, they are rudimentary metrics at best.  They could be used to identify multiple point sources for example.
