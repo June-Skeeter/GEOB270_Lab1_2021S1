@@ -12,6 +12,7 @@ To get familiar with ArcGIS Pro, you will complete an Introduction to ArcGIS Pro
 
 ## Completing the introductory tutorial
 Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-started/introducing-arcgis-pro.htm) tutorial.  Watch the short introductory video, then work through the steps.  **You will be submitting a map from this tutorial for credit.**
+* You already have a project open, so you can start with Open the project step 2 *Note*.
 * *Note*, if you have trouble in "Opening the project, Step 3" for either tutorial, you can download the data for off line use instead
 * When you get to "Explore Views, Step 7", double click on the map title and add your name following the video below.
 
