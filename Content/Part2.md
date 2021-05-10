@@ -19,7 +19,7 @@ The Vienna Maternity Hospital had two clinics with vastly different maternal mor
 * The Second clinic was run by midwives who generally had more sanitary practices (Varney & Thompson 2015).  Midwives did not do postmortems or vaginal examinations (Loudon, 2013).
 
 In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).  Despite the overwhelming evidence in favor of sanitizing, these methods were rejected by the European medical community because they were in conflict with the Miasma theory. Semmelweis' was replaced in 1849, sanitizing fell out of practice, and death rates began to rise again.
-* In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  Some were attached to the Miasma theory.  Some were offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  For many, it was probably a bit of both.
+
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -37,6 +37,7 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
 <a href="ViennaHospital.png" target="_blank">View Image in New Tab</a>
 
 ## Belief Perseverance
+sIn the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  Some were attached to the Miasma theory.  Some were offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  For many, it was probably a bit of both.
 
 Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. plate tectonics, climate change, vaccines, etc).  Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
