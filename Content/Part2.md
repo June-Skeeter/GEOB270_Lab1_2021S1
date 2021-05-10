@@ -10,7 +10,7 @@ Early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_diseas
 
 * *"The existence of contagion is established by experience [and] by trustworthy reports on transmission by garments, vessels, ear-rings; by the spread of it by persons from one house, by infection of a healthy sea-port by an arrival from an infected land [and] by the immunity of isolated individuals."*  
 
-Yet European physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) which attributed diseases such as cholera to “bad air” for many centuries.  In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  
+Yet European physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) which attributed diseases such as cholera to “bad air” for many centuries.  
 
 ## Hand Washing: An Early Case Study
 
@@ -18,9 +18,8 @@ The Vienna Maternity Hospital had two clinics with vastly different maternal mor
 * The First clinic was run by physicians and medical students who started each day with postmortem examinations.  They then proceeded to the maternity, ward without washing their hands, where the students did vaginal examinations as part of their training (Loudon, 2013).
 * The Second clinic was run by midwives who generally had more sanitary practices (Varney & Thompson 2015).  Midwives did not do postmortems or vaginal examinations (Loudon, 2013).
 
-In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).  Despite the overwhelming evidence in favor of sanitizing, Semmelweis' methods were ridiculed and he was replaced in 1849.  Sanitizing fell out of practice at the hospital, and death rates began to rise again.
-* Sanitation methods were rejected by the medical community in Europe because they were in conflict with the Miasma theory.  
-  * Further, many physicians of the time were offended by the idea that they themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).
+In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).  Despite the overwhelming evidence in favor of sanitizing, these methods were rejected by the European medical community because they were in conflict with the Miasma theory. Semmelweis' was replaced in 1849, sanitizing fell out of practice, and death rates began to rise again.
+* In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  Some were attached to the Miasma theory.  Some were offended by the idea that physicians themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).  For many, it was probably a bit of both.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -39,11 +38,10 @@ In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the c
 
 ## Belief Perseverance
 
-Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. heliocentric theory, plate tectonics, climate change, vaccines, etc).
-* Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
+Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. plate tectonics, climate change, vaccines, etc).  Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
 ## **Question 7)**
-In your own words, what is belief perseverance?  Give your own example of belief perseverance, this can be a historical example or one from your own personal experience.
+In your own words, what is belief perseverance?  Give your own example of belief perseverance.  This can be a historical example or one from your own personal experience.
 
 
 ## References
