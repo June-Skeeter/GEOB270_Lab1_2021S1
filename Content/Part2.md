@@ -18,10 +18,9 @@ The Vienna Maternity Hospital had two clinics with vastly different maternal mor
 * The doctors/students started each day with postmortem examinations.  They then proceeded to the maternity ward without washing their hands where the students did vaginal examinations as part of their training (Loudon, 2013).
 * By contrast, the midwives generally had more sanitary practices and did not do postmortems or vaginal examinations (Varney & Thompson 2015).
 
-In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).
-* Despite the overwhelming evidence in favor of sanitizing, Semmelweis' methods were rejected by the medical community in Europe because they were in conflict with the Miasma theory.
-  * Many physicians of the time were offended by the idea that they themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).
-* Semmelweis was replaced in 1849, sanitizing fell out of practice at the hospital, and death rates began to rise again.
+In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).  Despite the overwhelming evidence in favor of sanitizing, Semmelweis' methods were ridiculed and he was replaced in 1849.  Sanitizing fell out of practice at the hospital, and death rates began to rise again.
+* Sanitation methods were rejected by the medical community in Europe because they were in conflict with the Miasma theory.  
+  * Further, many physicians of the time were offended by the idea that they themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
