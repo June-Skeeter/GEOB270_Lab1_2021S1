@@ -18,7 +18,7 @@ Follow the steps as outlined and refer to the video below to add a new layout.
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
-  <iframe src="AddLayout.png" title="Processes" scrolling="no" frameborder="0"
+  <iframe src="AddLayout.mp4" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
    height: 100%;
    left: 0;
@@ -28,7 +28,7 @@ Follow the steps as outlined and refer to the video below to add a new layout.
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
-<a href="AddLayout.png" target="_blank">View Image in New Tab</a>
+<a href="AddLayout.mp4" target="_blank">View Image in New Tab</a>
 
 ## Adding Map Elements
 Follow the steps as outlined and refer to the video below to add the necessary map elements.
@@ -68,8 +68,9 @@ Follow the steps as outlined and refer to the video below to add the necessary m
 <a href="MapElements.mp4" target="_blank">View Image in New Tab</a>
 
 
-## **Question XX)**
-What are the effects of changing the Area unit?
+## **Question 12)**
+Save your layout as a .pdf and submit it to canvas.  Your map should look something like the map below.
+* Different colors, element sizes, etc. are fine.  But it should have all the map elements listed above
 
 ## Save your project.
 
