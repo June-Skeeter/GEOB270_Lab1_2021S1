@@ -64,6 +64,9 @@ What are the effects of changing the Output cell size?
 ## **Question 10)**
 What are the effects of changing the Area unit?
 
+## **Question 11)**
+Why do you think Kernel Density might be a better option than using the mean center and directional distribution to identify the source(s) of a cholera outbreak?
+
 ## Save your project.
 
 Click Save in the top left of the Arc Pro window.

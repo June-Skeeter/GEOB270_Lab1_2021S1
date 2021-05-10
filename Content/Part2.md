@@ -10,32 +10,38 @@ Early forms of [germ theory](https://en.wikipedia.org/wiki/Germ_theory_of_diseas
 
 * *"The existence of contagion is established by experience [and] by trustworthy reports on transmission by garments, vessels, ear-rings; by the spread of it by persons from one house, by infection of a healthy sea-port by an arrival from an infected land [and] by the immunity of isolated individuals."*  
 
-Regardless this knowledge European physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) which attributed diseases such as cholera to “bad air” for many centuries.  In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  Here is one striking historical example:
+Yet European physicians clung to the [miasma theory](https://en.wikipedia.org/wiki/Miasma_theory) which attributed diseases such as cholera to “bad air” for many centuries.  In the face of mounting evidence many doctors and public officials stubbornly refused to acknowledge that basic hygiene and sanitation could save lives.  
 
-* The Vienna Maternity Hospital had two maternity clinics with vastly different maternal mortality rates.  Between 1840 and 1846, the maternal mortality rate was 10% at the clinic run by physicians and medical students but only 4% at the clinic run by midwives.
-  * The doctors/students started each day with postmortem examinations.  They then proceeded to the maternity ward without washing their hands where the students did vaginal examinations as part of their training (Loudon, 2013).
-  * By contrast, the midwives didn't do postmortems or examinations and generally had more sanitary practices (Varney & Thompson 2015).
-* In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).
+## Hand Washing: An Early Case Study
+
+The Vienna Maternity Hospital had two clinics with vastly different maternal mortality rates.  Between 1840 and 1846, the maternal mortality rate was 10% at the clinic run by physicians and medical students but only 4% at the clinic run by midwives.
+* The doctors/students started each day with postmortem examinations.  They then proceeded to the maternity ward without washing their hands where the students did vaginal examinations as part of their training (Loudon, 2013).
+* By contrast, the midwives generally had more sanitary practices and did not do postmortems or vaginal examinations (Varney & Thompson 2015).
+
+In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).
+* Despite the overwhelming evidence in favor of sanitizing, Semmelweis' methods were rejected by the medical community in Europe because they were in conflict with the Miasma theory.
+  * Many physicians of the time were offended by the idea that they themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).
+* Semmelweis was replaced in 1849, sanitizing fell out of practice at the hospital, and death rates began to rise again.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
   position: relative">
   <iframe src="ViennaHospital.png" title="Processes" scrolling="no" frameborder="0"
     style="border: 0;
-   height: 100%;
+   height: 90%;
    left: 0;
    position: absolute;
    top: 0;
-   width: 100%;">
+   width: 90%;">
    <p>Your browser does not support iframes.</p>
  </iframe>
 </div>
 <a href="ViennaHospital.png" target="_blank">View Image in New Tab</a>
 
-* Despite the overwhelming evidence in favor of sanitizing, Semmelweis' methods were rejected by the medical community in Europe because they were in conflict with the Miasma theory.  Semmelweis was replaced in 1849, sanitizing fell out of practice at the hospital, and death rates began to rise again.
-  * Many contemporary physicians of the time were offended by the idea that they themselves were vectors for disease transmission because [*"a gentleman's hands are clean"*](https://en.wikipedia.org/wiki/Charles_Delucena_Meigs).
-* Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue in sciences that has impeded numerous theoretical advancements (eg. heliocentric theory, plate tectonics, etc).
-  * Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
+## Belief Perseverance
+
+Rejection of sanitary practices in the European medical community is an example of [belief perseverance](https://en.wikipedia.org/wiki/Belief_perseverance).  Historically, this is a common issue that has impeded numerous scientific advancements (eg. heliocentric theory, plate tectonics, climate change, vaccines, etc).
+* Belief perseverance has many causes but it is often exacerbated by misogyny, racism, and ethnocentrism (eg. Rossiter 1993).
 
 ## **Question 7)**
 In your own words, what is belief perseverance?  Give your own example of belief perseverance, this can be a historical example or one from your own personal experience.
