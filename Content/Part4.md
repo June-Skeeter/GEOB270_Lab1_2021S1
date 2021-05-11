@@ -9,10 +9,11 @@ nav_order: 5
 ## Bringing Historical Data into a GIS
 
 In order to get the map into a GIS, it has to be scanned and then [georeferenced](https://pro.arcgis.com/en/pro-app/latest/help/data/imagery/overview-of-georeferencing.htm).  To georeference a map like this, locations on the scanned map (eg. intersections) can be matched up to an existing map.
-* With enough matching points (>2), an accurate transformation can be calculated and the paper map can be projected over base map.
+* With enough matching points (>2), an accurate transformation can be calculated and the paper map can be projected over base map.  **Watch [this video](https://www.youtube.com/watch?v=n4WeaU2bYoI) for a quick overview of georeferencing.**
   * Usually, we need 3+ points to calculate an accurate transformation.  Two points can give us a rough approximation if no more points can be identified.
   * For best results, the points need to be evenly distributed across a map.
-### **Watch this video for a quick overview of georeferencing.**
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=n4WeaU2bYoI/0.jpg)](https://www.youtube.com/watch?v=n4WeaU2bYoI)
 
 Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points manually identify identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
 
@@ -24,7 +25,10 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 * **Note** This is what I named my project, your project may have a different name depending on how you set things up in the Getting Started step on the Introduction tab.
 * ArcGIS Pro shows your project folder by default in the Folders tab in the Catalog pane on the right.  To view other folders, you have to add folder connections.  We'll cover this later in the semester.
 
-**2)** Find the Deaths feature class in the SourcePoints feature dataset.  Click and drag the deaths feature class onto the map area.
+**2)** Find the Deaths feature class, which is located in the SourcePoints in the CholeraOutbreak_1854.gdb.  Click and drag the deaths feature class onto the map area.
+* A geodatabase (.gdb) is a file management structure that is unique to ESRI products.
+  * Geodatabases are used to store files in Arc Pro.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in regular files as well.  But .gdb have some enhanced functionality that makes them better in some circumstances.  We'll discuss .gdb more in more detail later
+* SourcePoints is a "Feature Dataset", a collection of feature classes within a geodatabase that have common properties (eg. projections)
 * Right click on the Deaths layer in the table of contents and click zoom to layer.
 
 **3)** Right click again and open the attribute table to explore the data a bit.
@@ -69,7 +73,6 @@ How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in 
 Using the steps outlined in the video on creating point features, we are going to create a new feature class called "Broad St. Pump" and digitize the location of the pump.  Follow the steps as outlined and refer to the video below.
 
 **1)** Right click on SourcePoints in the catalog pane and click New > Feature Class.
-* SourcePoints is a "Feature Dataset", a collection of feature classes within a geodatabase that have common properties (eg. projections)
 
 **2)** In the new window that opens, give the new feature a name and alas, set the type to point, and click Next.
 * Arc Pro does not allow Feature Classes to have certain characters (eg. spaces) in file names.  But you can set the alias to display spaces
@@ -104,8 +107,6 @@ Using the steps outlined in the video on creating point features, we are going t
 Now we are going to digitize the location of the Broad St. Pump.  Follow the steps as outlined and refer to the video below.
 
 **1)** Find the Snow_cholera_map in the CholeraOutbreak_1854.gdb, click and drag it onto the map.
-* A geodatabase (.gdb) is a file management structure that is unique to ESRI products.
-  * Geodatabases are used to store files in Arc Pro.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in regular files as well.  But .gdb have some enhanced functionality that makes them better in some circumstances.  We'll discuss .gdb more in more detail later
 
 **2)** Open the Edit tab and click Create, in the create pane that appears, click Broad St. Pump and choose point from the options that appear.
 * The edit tab allows us to create, modify, save, and delete data among other things
