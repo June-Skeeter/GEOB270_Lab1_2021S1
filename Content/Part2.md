@@ -15,7 +15,7 @@ Yet European physicians clung to the [miasma theory](https://en.wikipedia.org/wi
 ## Hand Washing: An Early Case Study
 
 The Vienna Maternity Hospital had two clinics with vastly different maternal mortality rates.  Between 1840 and 1846, the maternal mortality rate was 10% at the "First" clinic but only 4% at the "Second" clinic run by midwives.
-* The First clinic was run by physicians and medical students who started each day with postmortem examinations.  They then proceeded to the maternity, ward without washing their hands, where the students did vaginal examinations as part of their training (Loudon, 2013).
+* The First clinic was run by physicians and medical students who started each day with postmortem examinations.  They then proceeded to the maternity ward without washing their hands, where the students did vaginal examinations as part of their training (Loudon, 2013).
 * The Second clinic was run by midwives who generally had more sanitary practices (Varney & Thompson 2015).  Midwives did not do postmortems or vaginal examinations (Loudon, 2013).
 
 In 1847, the new chief resident Ignaz Semmelweis suspected contagions from the cadavers were to blame.  Semmelweis mandated hand washing and sanitizing instruments with a chlorine solution for both clinics.  By 1848, the maternal mortality rate in both clinics fell to 1.3% (Loudon, 2013).  Despite the overwhelming evidence in favor of sanitizing, these methods were rejected by the European medical community because they were in conflict with the Miasma theory. Semmelweis' was replaced in 1849, sanitizing fell out of practice, and death rates began to rise again.
