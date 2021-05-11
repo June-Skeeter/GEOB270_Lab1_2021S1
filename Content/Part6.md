@@ -91,3 +91,4 @@ Save your layout as a .pdf and submit it to canvas.
 ## Save your project.
 
 Click Save in the top left of the Arc Pro window.
+* If you are working on a Geography Department Lab computer, make sure to save your work the the H:/ drive and log off properly.  See the video of on the Lab Details page on canvas for a more detailed explanation.

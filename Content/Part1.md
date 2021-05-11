@@ -34,6 +34,7 @@ Go to the [Introducing ArcGISPro](https://pro.arcgis.com/en/pro-app/latest/get-s
 ## **Question 1)**
 Save the layout with your name as as Central_Wellington_Layout.pdf and upload it to the Lab 1 canvas quiz.
 * To save your layout reference the image below. 1) CLick Share. 2) Click Layout Export.  3) Specify the output location and name your file.  Its best to use your Lab1_Project workspace so you can easily find this when its time to submit you map.  4) Click Export.
+* The Lab 1 Quiz can be found in the Week 1: Thursday Lecture + Lab 1 module on canvas.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
@@ -52,31 +53,32 @@ Save the layout with your name as as Central_Wellington_Layout.pdf and upload it
 
 
 ## Watching the videos
-ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos.
+ESRI offers quite a few tutorials on ArcGIS Pro.  Feel free to work though them if you have time!  But we're just going to watch the overview videos from four tutorials to learn a bit more about what we can do with ArcGIS Pro.  Go to each of the following tutorial pages and watch the overview videos then answer the questions below.
 
 [Explore your data](https://pro.arcgis.com/en/pro-app/latest/get-started/explore-your-data.htm)
   * This tutorial shows you how you can interact with and explore data layers.
 
-## **Question 2)**
-What does the select layer by attributes tool do?
-
 [Make a layout](https://pro.arcgis.com/en/pro-app/latest/get-started/add-maps-to-a-layout.htm)
   * This tutorial shows you how you can use map layouts to visualize data.
 
-## **Question 3)**
-What is a Layout in ArcGIS Pro?
-
 [Use geoprocessing tools](https://pro.arcgis.com/en/pro-app/latest/get-started/use-geoprocessing-tools.htm)
   * This tutorial shows a few of the ways you can analyze geospatial data and see how different layers interact.
+
+[Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm)
+  * This tutorial shows how you can create a feature class and populate it with point features.
+
+
+## **Question 2)**
+What does the select layer by attributes tool do?
+
+## **Question 3)**
+What is a Layout in ArcGIS Pro?
 
 ## **Question 4)**
 How many campgrounds have invasive grass within 1500 meters?
 
 ## **Question 5)**
 What tool is used to create this 1500 meter zone around the campsites?
-
-[Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm)
-  * This tutorial shows how you can create a feature class and populate it with point features.
 
 ## **Question 6)**
 What is the first step when creating a new point layer?
