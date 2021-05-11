@@ -172,7 +172,7 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
 **1)** Right click on Broad St. Pump and click Label.
 * Note a label appears next to the point but it isn't very easy to read.
 
-**2)** Right click on Broad St. Pump again and click Label Properties, change the font size and add a halo to make the label easier to read.
+**2)** Right click on Broad St. Pump again and click Labeling Properties, change the font size and add a halo to make the label easier to read.
 * Halos can make your text stand out against a background.  Increasing the font size also helps the text stand out.
 * You can change many other aspects of the label text.  Play around with the properties to see what happens when you make changes.  Hit apply after each change.
 
