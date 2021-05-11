@@ -12,8 +12,8 @@ In order to get the map into a GIS, it has to be scanned and then [georeferenced
 * With enough matching points (>2), an accurate transformation can be calculated and the paper map can be projected over base map.  Watch the video linked below for a quick overview of georeferencing.
   * Usually, we need 3+ points to calculate an accurate transformation.  Two points can give us a rough approximation if no more points can be identified.
   * For best results, the points need to be evenly distributed across a map.
-
-[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=n4WeaU2bYoI/0.jpg)](https://www.youtube.com/watch?v=n4WeaU2bYoI)
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4WeaU2bYoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points have to be manually identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
 
