@@ -24,7 +24,10 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 * **Note** This is what I named my project, your project may have a different name depending on how you set things up in the Getting Started step on the Introduction tab.
 * ArcGIS Pro shows your project folder by default in the Folders tab in the Catalog pane on the right.  To view other folders, you have to add folder connections.  We'll cover this later in the semester.
 
-**2)** Find the Deaths feature class in the SourcePoints feature dataset.  Click and drag the deaths feature class onto the map area.
+**2)** Find the Deaths feature class, which is located in the SourcePoints in the CholeraOutbreak_1854.gdb.  Click and drag the deaths feature class onto the map area.
+* A geodatabase (.gdb) is a file management structure that is unique to ESRI products.
+  * Geodatabases are used to store files in Arc Pro.  You don't have to store your data in a .gdb, Arc Pro can work with data stored in regular files as well.  But .gdb have some enhanced functionality that makes them better in some circumstances.  We'll discuss .gdb more in more detail later
+* SourcePoints is a "Feature Dataset", a collection of feature classes within a geodatabase that have common properties (eg. projections)
 * Right click on the Deaths layer in the table of contents and click zoom to layer.
 
 **3)** Right click again and open the attribute table to explore the data a bit.
@@ -69,7 +72,6 @@ How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in 
 Using the steps outlined in the video on creating point features, we are going to create a new feature class called "Broad St. Pump" and digitize the location of the pump.  Follow the steps as outlined and refer to the video below.
 
 **1)** Right click on SourcePoints in the catalog pane and click New > Feature Class.
-* SourcePoints is a "Feature Dataset", a collection of feature classes within a geodatabase that have common properties (eg. projections)
 
 **2)** In the new window that opens, give the new feature a name and alias, set the type to point, and click Next.
 * Arc Pro does not allow Feature Classes to have certain characters (eg. spaces) in file names.  But you can set the alias to display spaces
