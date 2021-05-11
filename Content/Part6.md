@@ -69,8 +69,8 @@ Follow the steps as outlined and refer to the video below to add the necessary m
 
 
 ## **Question 12)**
-Save your layout as a .pdf and submit it to canvas.  Your map should look something like the map below.
-* Different colors, element sizes, etc. are fine.  But it should have all the map elements listed above
+Save your layout as a .pdf and submit it to canvas.
+* Your map should look something like the map shown below. Different colors, element sizes, etc. are fine.  But it should have all the map elements listed above.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;

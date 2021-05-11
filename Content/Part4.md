@@ -51,7 +51,8 @@ The cholera deaths have already been digitized. Follow the steps as outlined and
 <a href="AddData.mp4" target="_blank">View Image in New Tab</a>
 
 ## **Question 8)**
-How many cholera deaths were recorded in this outbreak?  Right click "COUNT" in the attribute table and choose "Statistics" as shown below.  A chart window and a properties pane will open.  Use the statistics in the properties pane to answer the question.
+How many cholera deaths were recorded in this outbreak?
+* Right click "COUNT" in the attribute table and choose "Statistics" as shown below.  A chart window and a properties pane will open.  Use the statistics in the properties pane to answer the question.
 
 <div style="overflow: hidden;
   padding-top: 56.25%;
