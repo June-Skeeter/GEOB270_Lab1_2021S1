@@ -15,7 +15,7 @@ In order to get the map into a GIS, it has to be scanned and then [georeferenced
 
 [![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=n4WeaU2bYoI/0.jpg)](https://www.youtube.com/watch?v=n4WeaU2bYoI)
 
-Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points manually identify identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
+Once the map has been scanned and georeferenced, we can extract information from it.  On Dr. Snow’s map, the key pieces of information are the cholera deaths and water pumps.  To get this information into the GIS, the points have to be manually identified and entered.  This process is known as digitizing, and was explained in the [Create points on a map](https://pro.arcgis.com/en/pro-app/latest/get-started/create-points-on-a-map.htm) video.  
 
 
 ## Adding the Deaths feature dataset.
@@ -74,7 +74,7 @@ Using the steps outlined in the video on creating point features, we are going t
 
 **1)** Right click on SourcePoints in the catalog pane and click New > Feature Class.
 
-**2)** In the new window that opens, give the new feature a name and alas, set the type to point, and click Next.
+**2)** In the new window that opens, give the new feature a name and alias, set the type to point, and click Next.
 * Arc Pro does not allow Feature Classes to have certain characters (eg. spaces) in file names.  But you can set the alias to display spaces
 * Feature classes can take multiple different types.  The three most common, which we will mainly be concerned with are: Points, Lines, and Polygons
   * We'll discuss the differences in detail in lecture
@@ -145,7 +145,7 @@ Now we are going to digitize the location of the Broad St. Pump.  Follow the ste
 Now we are going to change the symbology of the Deaths and Broad St. Pump so that they are more visible.  Follow the steps as outlined and refer to the video below.
 
 **1)** Click on Deaths then click the Appearance tab, choose Single Symbol from the Symbology drop down.
-* The appearance tab lest you make changes to the way data is represented on your map.
+* The appearance tab let's you make changes to the way data is represented on your map.
 
 **2)** In the symbology pane that opens, under gallery, choose the red triangle, then adjust the properties to fine tune the symbology.  Select the Broad St. Pump and symbolize the it as a larger circle marker in a different color.
 * You can change various properties of the point symbols to make them easier to see (eg. outline width, point size).
@@ -173,8 +173,8 @@ Now we are going to add a label to Broad St. Pump so the map reader can identify
 **1)** Right click on Broad St. Pump and click Label.
 * Note a label appears next to the point but it isn't very easy to read.
 
-**2)** Right click on Broad St. Pump again and click Label Properties, change the font size and add a halo to make the label easier to read.
-* Halos can make your text stand out against a background.  Increasing the fond size also helps the text stand out.
+**2)** Right click on Broad St. Pump again and click Labeling Properties, change the font size and add a halo to make the label easier to read.
+* Halos can make your text stand out against a background.  Increasing the font size also helps the text stand out.
 * You can change many other aspects of the label text.  Play around with the properties to see what happens when you make changes.  Hit apply after each change.
 
 <div style="overflow: hidden;
