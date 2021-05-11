@@ -4,7 +4,9 @@ title: Lab 1 Introduction
 nav_order: 1
 ---
 
-# Video here ---->
+# Lab 1 Introduction
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UDE_v8S9-Kk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Learning Objectives:
 

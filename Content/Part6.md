@@ -72,6 +72,22 @@ Follow the steps as outlined and refer to the video below to add the necessary m
 Save your layout as a .pdf and submit it to canvas.  Your map should look something like the map below.
 * Different colors, element sizes, etc. are fine.  But it should have all the map elements listed above
 
+<div style="overflow: hidden;
+  padding-top: 56.25%;
+  position: relative">
+  <iframe src="Final_Map.png" title="Processes" scrolling="no" frameborder="0"
+    style="border: 0;
+   height: 100%;
+   left: 0;
+   position: absolute;
+   top: 0;
+   width: 100%;">
+   <p>Your browser does not support iframes.</p>
+ </iframe>
+</div>
+<a href="Final_Map.png" target="_blank">View Image in New Tab</a>
+
+
 ## Save your project.
 
 Click Save in the top left of the Arc Pro window.
